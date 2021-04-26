@@ -30,7 +30,7 @@ null
 
 ## Tests
 
-*Tests for application and how to run them:*
+*Tests:*
   
 https://youtu.be/UslElIiaPEM
       
